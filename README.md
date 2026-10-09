@@ -192,6 +192,17 @@ with interactive lessons and real projects.
   builds this controller one piece at a time, written and graded in your browser.
   Free, 8 lessons.
 - **[2D Roguelike: Combat Core](https://codingquests.io/quests/2d-roguelike-combat-core?utm_source=github&utm_medium=resource&utm_campaign=godot_top_down_controller)**
-  carries on from here with health, hitboxes and hurtboxes, and a weapon.
+  carries on from here with health, hitboxes and hurtboxes, and a weapon. The first 4 lessons are free.
+
+## More Free Godot Resources from CodingQuests
+
+Other free, MIT-licensed Godot 4 projects that work well next to this one:
+
+- **[Hitbox and Hurtbox](https://github.com/CodingQuests/godot-hitbox-hurtbox)**: Health, hitbox and hurtbox components with one hit per swing, knockback, hit-stop and i-frames.
+- **[Enemy AI](https://github.com/CodingQuests/godot-enemy-ai)**: Four enemy types and a three-pattern boss on one shared state machine, with attacks you can read.
+- **[Game Feel Lab](https://github.com/CodingQuests/godot-game-feel-lab)**: One sword swing split into seven layers you can switch on and off while the game runs.
+- **[State Machine](https://github.com/CodingQuests/godot-state-machine)**: A node-per-state machine, shown on a slime that idles, roams, chases, leaps, staggers and dies.
+
+All twelve are listed on the [CodingQuests GitHub profile](https://github.com/CodingQuests).
 
 Made by [CodingQuests](https://codingquests.io/?utm_source=github&utm_medium=resource&utm_campaign=godot_top_down_controller).
